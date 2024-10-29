@@ -25,7 +25,7 @@
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=341933)](https://www.linkedin.com/in/savio-ferreira-846a19210/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=341933)](https://www.linkedin.com/in/saviofcastro/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=341933)](https://www.instagram.com/savio_fcastro/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=341933)](mailto:ferreirasavio39@gmail.com)
 
