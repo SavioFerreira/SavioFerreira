@@ -1,4 +1,4 @@
-<img align="left" src="https://img.shields.io/static/v1?label=Vis%C3%A3o%20geral&message=S%C3%A1vio%20Ferreira%20de%20Castro&color=341933&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img align="left" src="https://img.shields.io/static/v1?label=Vis%C3%A3o%20geral&message=S%C3%A1vio%20Ferreira&color=341933&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <br><br>
 
@@ -38,6 +38,7 @@ Atualmente trabalhando com desenvolvimento web corporativo focado em Java e Jaka
 ![PrimeFaces](https://img.shields.io/badge/-PrimeFaces-014F7E?style=for-the-badge&labelColor=E6F3FB&logoColor=014F7E)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-0A3D17?style=for-the-badge&labelColor=E8F5E9&logo=thymeleaf&logoColor=0A3D17)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-064E5F?style=for-the-badge&labelColor=E0F4F4&logo=tailwind-css&logoColor=064E5F)
+![JasperReports](https://img.shields.io/badge/-JasperReports-065F25?style=for-the-badge&labelColor=F0FAF0&logoColor=065F25)
 
 </td>
   </tr>
@@ -49,7 +50,7 @@ Atualmente trabalhando com desenvolvimento web corporativo focado em Java e Jaka
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D3366?style=for-the-badge&labelColor=E6EEF9&logo=postgresql&logoColor=0D3366)
 ![Docker](https://img.shields.io/badge/-Docker-024066?style=for-the-badge&labelColor=E1F2FD&logo=docker&logoColor=024066)
 ![Git](https://img.shields.io/badge/-Git-7B1D1D?style=for-the-badge&labelColor=FEE8E4&logo=git&logoColor=7B1D1D)
-![JasperReports](https://img.shields.io/badge/-JasperReports-065F25?style=for-the-badge&labelColor=F0FAF0&logoColor=065F25)
+![SVN](https://img.shields.io/badge/svn-system-blue?style=for-the-badge&logo=subversion)
 
 </td>
     <td valign="top" width="50%">
@@ -71,7 +72,19 @@ Atualmente trabalhando com desenvolvimento web corporativo focado em Java e Jaka
 ---
 
 ## Top linguagens
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioferreira&layout=compact&theme=radical" alt="Top Langs" style=" margin-top: 110" />
+  <table>
+    <tr>
+      <td>
+          <img src="https://cr.openjdk.java.net/~jeff/Duke/png/Tumble.png" alt="Duke waving" width="270" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioferreira&layout=compact&theme=radical" alt="Top Langs" height="200" width="450"/>
+      </td>
+      <td>
+          <img src="https://cr.openjdk.java.net/~jeff/Duke/png/ChezDuke.png" alt="Duke Chez" width="200" height="200"/>
+      </td>
+    </tr>
+  </table>
 
 ---
 
