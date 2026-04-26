@@ -1,61 +1,81 @@
+<img align="left" src="https://img.shields.io/static/v1?label=Vis%C3%A3o%20geral&message=S%C3%A1vio%20Ferreira%20de%20Castro&color=341933&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img align="left" src="https://img.shields.io/static/v1?label=Vis%C3%A3o%20geral&message=S%C3%A1vio%20Ferreira%20de%20Castro&color=341933&style=flat&logo=GitHub%22%20alt=%22Static%20GitHub%22">
+<br><br>
 
 ## Sobre
 
 <p align="center">
-Desenvolvedor Full Stack Java 💻  
+Desenvolvedor Full Stack Java 💻<br>
 Atualmente trabalhando com desenvolvimento web corporativo focado em Java e Jakarta EE.
 </p>
 
+---
 
 ## Tecnologias & Ferramentas
 
 ### Stack atual (trabalho)
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 **Backend**
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
-- ![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-F80000?style=flat&logo=eclipseide)
-- ![WildFly](https://img.shields.io/badge/-WildFly-000000?style=flat)
+
+![Java](https://img.shields.io/badge/-Java-7A3600?style=for-the-badge&labelColor=FEF3E2&logo=openjdk&logoColor=7A3600)
+![Spring](https://img.shields.io/badge/-Spring-145226?style=for-the-badge&labelColor=E6F4EA&logo=spring&logoColor=145226)
+![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-7B1D1D?style=for-the-badge&labelColor=FEECEC&logo=eclipseide&logoColor=7B1D1D)
+![WildFly](https://img.shields.io/badge/-WildFly-222222?style=for-the-badge&labelColor=E8E8E8&logoColor=222222)
+
+</td>
+    <td valign="top" width="50%">
 
 **Frontend**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=341933)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=341933)
-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
-- ![JSF](https://img.shields.io/badge/-JSF-323330?style=flat)
-- ![PrimeFaces](https://img.shields.io/badge/-PrimeFaces-0081CB?style=flat)
-- ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat)
-- ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-6B5700?style=for-the-badge&labelColor=FFFBDB&logo=javascript&logoColor=6B5700)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1E3A8A?style=for-the-badge&labelColor=EAF1FC&logo=typescript&logoColor=1E3A8A)
+![jQuery](https://img.shields.io/badge/-jQuery-063A6B?style=for-the-badge&labelColor=EAF0FA&logo=jquery&logoColor=063A6B)
+![JSF](https://img.shields.io/badge/-JSF-2D2469?style=for-the-badge&labelColor=F0EEF8&logoColor=2D2469)
+![PrimeFaces](https://img.shields.io/badge/-PrimeFaces-014F7E?style=for-the-badge&labelColor=E6F3FB&logoColor=014F7E)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-0A3D17?style=for-the-badge&labelColor=E8F5E9&logo=thymeleaf&logoColor=0A3D17)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-064E5F?style=for-the-badge&labelColor=E0F4F4&logo=tailwind-css&logoColor=064E5F)
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
 **Banco de dados & DevOps**
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
-**Relatórios**
-- ![JasperReports](https://img.shields.io/badge/-JasperReports-005F0F?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D3366?style=for-the-badge&labelColor=E6EEF9&logo=postgresql&logoColor=0D3366)
+![Docker](https://img.shields.io/badge/-Docker-024066?style=for-the-badge&labelColor=E1F2FD&logo=docker&logoColor=024066)
+![Git](https://img.shields.io/badge/-Git-7B1D1D?style=for-the-badge&labelColor=FEE8E4&logo=git&logoColor=7B1D1D)
+![JasperReports](https://img.shields.io/badge/-JasperReports-065F25?style=for-the-badge&labelColor=F0FAF0&logoColor=065F25)
 
----
+</td>
+    <td valign="top" width="50%">
 
-### Estudando
+**Estudando**
 
-- ![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-F80000?style=flat)
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-- 🤖 AI para desenvolvimento:
-  - GitHub Copilot / Codex
-  - Claude Code
+![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-7B1D1D?style=for-the-badge&labelColor=FEECEC&logo=eclipseide&logoColor=7B1D1D)
+![Angular](https://img.shields.io/badge/-Angular-8B005D?style=for-the-badge&labelColor=FDE8EC&logo=angular&logoColor=8B005D)
+
+🤖 **AI para desenvolvimento:**
+
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot%20%2F%20Codex-3B0F8A?style=for-the-badge&labelColor=F3F0FA&logo=github&logoColor=3B0F8A)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-065F25?style=for-the-badge&labelColor=E8F5E9&logo=openai&logoColor=065F25)
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## Top linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savioferreira&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savioferreira&layout=compact&theme=radical" alt="Top Langs" style=" margin-top: 110" />
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=341933)](https://www.linkedin.com/in/saviofcastro/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=341933)](https://www.instagram.com/savio_fcastro/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=341933)](mailto:ferreirasavio39@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saviofcastro/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreirasavio39@gmail.com)
